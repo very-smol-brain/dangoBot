@@ -1,15 +1,16 @@
 # A Simple Discord Bot for Our Server
 
-## ⭐️ What is this?
+A very barebones Discord bot that's currently WIP.
 
-A Discord Bot custom made for a server. Should have standalone features but created to be used in conjunction with Dango Website (Another WIP project).
+## Current Features
+
+* Currency tracker
+* Minecraft logs updater
+* Track basic information of users
 
 ## 🚚 To Implement
 
-* Server currency
-* Chengify
-* Polls
-* Ways to spend currency (Pings, Transfer)
-* Help Section
-* Link to shared backend database with Dango Website
-* Implement security
+* Music Bot using LavaWalker
+* More advanced currency + stat tracking
+* Remote Minecraft Server admin
+* Miscellaneous fun commands
